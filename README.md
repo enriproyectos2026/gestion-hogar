@@ -107,9 +107,7 @@ Tus datos no salen de tu servidor. No hay suscripciones. No hay publicidad. No h
 **Tú controlas tu información.**
 
 ---
-
-- [Manual de Usuario](link)
-
+| **Documentación** | [Manual de Usuario](link) 
 ---
 
 ## 👤 Autor
