@@ -8,21 +8,21 @@
 
 ## 📚 Índice
 
-1. Dashboard
-2. Compras
-3. Stock
-4. Recetas
-5. Productos
-6. Supermercados
-7. Finanzas
-8. Técnicas de Cocina
-9. Robots de Cocina
-10. Planificación
-11. Comercio en Línea
-12. Salud
-13. Mascotas
-14. Botiquín
-15. Mantenimiento
+- [1. Dashboard](#1-dashboard)
+- [2. Compras](#2-compras)
+- [3. Stock](#3-stock)
+- [4. Recetas](#4-recetas)
+- [5. Productos](#5-productos)
+- [6. Supermercados](#6-supermercados)
+- [7. Finanzas](#7-finanzas)
+- [8. Técnicas de Cocina](#8-técnicas-de-cocina)
+- [9. Robots de Cocina](#9-robots-de-cocina)
+- [10. Planificación](#10-planificación)
+- [11. Comercio en Línea](#11-comercio-en-línea)
+- [12. Salud](#12-salud)
+- [13. Mascotas](#13-mascotas)
+- [14. Botiquín](#14-botiquín-farmacia)
+- [15. Mantenimiento](#15-mantenimiento)
 
 ---
 
@@ -550,4 +550,3 @@ Gastos por elemento.
 
 ## 👤 Autor
 
-Desarrollado por **Enri** con la asistencia de **DeepSeek**.
