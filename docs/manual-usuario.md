@@ -585,3 +585,137 @@ Listado con seguimiento de pedidos por plataforma y badges de estado:
 ### 11.2. Detalle de Pedido
 
 Vista completa con importes, flujo de estados, artículos asociados y códigos de seguimiento (trackings).
+
+### 11.3. Nuevo / Editar Pedido
+
+Alta manual con dirección, método de pago, gastos de envío y URL de seguimiento.
+
+### 11.4. Entregar Pedido
+
+Marca el paquete como entregado y genera de forma automática el movimiento bancario o la actualización del saldo de la tarjeta.
+
+### 11.5. Devolver Pedido / Línea
+
+Permite indicar motivo y código de devolución para un artículo o el pedido entero.
+
+### 11.6. Reembolsar Pedido / Línea
+
+Registra el importe recibido de vuelta en una cuenta bancaria o monedero virtual.
+
+### 11.7. Importar Pedido
+
+Analiza el texto de los correos electrónicos de confirmación para crear el pedido de forma automática.
+
+### 11.8. Pedido Amazon (OCR)
+
+Sube una captura de pantalla de "Detalles del pedido" de Amazon para extraer los datos mediante visión.
+
+### 11.9. Plataformas
+
+Catálogo de tiendas (Amazon, AliExpress, etc.) con método de pago predeterminado.
+
+### 11.10. Artículos
+
+Histórico global de productos comprados online con número de serie y control de garantías.
+
+### 11.11. Monederos Virtuales
+
+Control de tarjetas de saldo, saldo promocional o saldo en tienda con fecha de caducidad.
+
+### 11.12. Estadísticas
+
+KPIs y gráficos (*Chart.js*) para analizar el gasto mensual/anual por plataforma.
+
+[⬆ Volver al índice](#📚-índice)
+
+---
+
+## 12. Salud
+
+### 12.1. Vista Diaria
+
+Navegación diaria para seguimiento de salud.
+
+**Escalas de referencia de dolor/estrés:**
+- 🟢 **0-2:** Leve
+- 🟡 **3-5:** Moderado
+- 🔴 **6-8:** Severo
+- ⚫ **9-10:** Máximo / Urgente
+
+### 12.2. Configuración Diaria
+
+Registro de horas de sueño, IAH (apneas), temperatura corporal al despertar, medicación variable y notas particulares.
+
+### 12.3. Medicación Fija
+
+Organizada por turnos: Mañana 🟢, Tarde 🟠, Noche 🔵 y Personalizado 🔷. Permite activar o silenciar recordatorios.
+
+### 12.4. Tomas de Datos
+
+Registro de constantes médicas: Glucosa, Tensión Arterial (Sistólica/Diastólica), Pulso y Oxígeno en sangre (O₂).
+
+### 12.5. Eventos
+
+Registro de episodios con intensidad de dolor (0-10), tipo, zona afectada y síntomas asociados (mareo, náuseas, debilidad...).
+
+### 12.6. Tipos de Dolor
+
+Catálogo editable de dolores recurrentes para categorizar los eventos.
+
+### 12.7. Gráficos
+
+Evolución temporal con *Chart.js*:
+- 🩸 **Glucosa** (Línea roja)
+- ❤️ **Tensión Arterial** (Doble línea)
+- 💓 **Pulso y O₂** (Doble línea)
+- 😴 **IAH** (Línea morada)
+- 🕐 **Horas de sueño** (Barras azules)
+
+### 12.8. Historial
+
+Tabla resumen diaria con la medicación tomada, horas de sueño y gravedad de los síntomas registrados.
+
+### 12.9. PDF Diario
+
+Generación de informe exportable de la jornada completo para entregar al personal médico.
+
+[⬆ Volver al índice](#📚-índice)
+
+---
+
+## 13. Mascotas
+
+### 13.1. Panel de Mascotas
+
+Tarjetas con perfil de cada mascota: Nombre, Especie (Perro, Gato, Ave...), Raza, Fecha de nacimiento 🎂, Número de chip 🔍, Último peso ⚖️, Próxima vacuna 🟡 y Desparasitación 🔵.
+
+### 13.2. Nueva / Editar Mascota
+
+Formulario de alta con datos identificativos generales.
+
+### 13.3. Ficha de la Mascota (Detalle)
+
+Panel central para la salud animal con botones directos:
+- ⚖️ **Peso**
+- 🛡️ **Vacuna**
+- 🐛 **Desparasitar**
+- 🏥 **Visita**
+- 🥚 **Alimento**
+
+### 13.4. Peso
+
+Historico de peso en kg con gráfico de evolución.
+
+### 13.5. Vacunas
+
+Tipo de vacuna, fecha de administración, próxima dosis recomendada y veterinario a cargo.
+
+### 13.6. Desparasitaciones
+
+Registro por tipo (🟡 Interna / 🔵 Externa), producto utilizado y fecha de renovación.
+
+### 13.7. Visitas al Veterinario
+
+Histórico de consultas, diagnósticos y costes asociados (€).
+
+[⬆ Volver al índice](#📚-índice)
