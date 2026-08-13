@@ -4,6 +4,7 @@
 **Fecha:** 12 de agosto de 2026  
 **Propósito:** Guía completa para el uso diario de la aplicación de gestión del hogar.
 
+
 ---
 
 ## 📚 Índice
