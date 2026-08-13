@@ -6,113 +6,113 @@
 
 ---
 
-<h2 id="indice">📚 Índice</h2>
+## 📚 Índice
 
-- [1. Dashboard](#sec-1)
-  - [1.1. Barra superior de contexto](#sec-1-1)
-  - [1.2. Widgets de alerta](#sec-1-2)
-  - [1.3. Acciones rápidas](#sec-1-3)
-  - [1.4. Cargos periódicos pendientes](#sec-1-4)
-  - [1.5. Tablas de resumen](#sec-1-5)
-  - [1.6. Listas de compra activas](#sec-1-6)
-  - [1.7. Personalizar el dashboard](#sec-1-7)
-- [2. Compras](#sec-2)
-  - [2.1. Histórico de Tickets](#sec-2-1)
-  - [2.2. Nueva Compra](#sec-2-2)
-  - [2.3. Detalle de Compra](#sec-2-3)
-  - [2.4. Editar Línea](#sec-2-4)
-  - [2.5. Gestión de Tickets (OCR)](#sec-2-5)
-- [3. Stock](#sec-3)
-  - [3.1. Despensa](#sec-3-1)
-  - [3.2. Movimientos de Stock](#sec-3-2)
-- [4. Recetas](#sec-4)
-  - [4.1. Listado de Recetas](#sec-4-1)
-  - [4.2. Nueva Receta](#sec-4-2)
-  - [4.3. Detalle de Receta](#sec-4-3)
-  - [4.4. Ficha de Cocina](#sec-4-4)
-  - [4.5. ¿Qué puedo cocinar?](#sec-4-5)
-  - [4.6. Importar Recetas](#sec-4-6)
-  - [4.7. Accesorios de Cocina](#sec-4-7)
-- [5. Productos](#sec-5)
-  - [5.1. Listado de Productos](#sec-5-1)
-  - [5.2. Detalle de Producto](#sec-5-2)
-  - [5.3. Comparador de Precios](#sec-5-3)
-  - [5.4. Tipos de Producto](#sec-5-4)
-  - [5.5. Unidades de Medida](#sec-5-5)
-  - [5.6. Conversiones de Unidades](#sec-5-6)
-  - [5.7. Importar Alimentos Básicos](#sec-5-7)
-- [6. Supermercados](#sec-6)
-  - [6.1. Listado de Supermercados](#sec-6-1)
-  - [6.2. Detalle de Supermercado](#sec-6-2)
-  - [6.3. Calendario de Festivos](#sec-6-3)
-  - [6.4. Crear/Editar Supermercado](#sec-6-4)
-- [7. Finanzas](#sec-7)
-  - [7.1. Movimientos](#sec-7-1)
-  - [7.2. Conciliación Bancaria](#sec-7-2)
-  - [7.3. Bancos](#sec-7-3)
-  - [7.4. Cuentas](#sec-7-4)
-  - [7.5. Tarjetas](#sec-7-5)
-  - [7.6. Liquidaciones de Tarjeta](#sec-7-6)
-  - [7.7. Financiaciones](#sec-7-7)
-  - [7.8. Gastos Periódicos](#sec-7-8)
-  - [7.9. Métodos de Pago](#sec-7-9)
-  - [7.10. Previsión de Pagos](#sec-7-10)
-- [8. Técnicas de Cocina](#sec-8)
-  - [8.1. Listado de Técnicas](#sec-8-1)
-  - [8.2. Nueva Técnica](#sec-8-2)
-  - [8.3. Detalle de Técnica](#sec-8-3)
-  - [8.4. Añadir / Editar Variante](#sec-8-4)
-  - [8.5. Ficha de Técnica](#sec-8-5)
-  - [8.6. Importar Técnica](#sec-8-6)
-- [9. Robots de Cocina](#sec-9)
-  - [9.1. Listado de Robots](#sec-9-1)
-  - [9.2. Detalle de Robot](#sec-9-2)
-  - [9.3. Nuevo / Editar Robot](#sec-9-3)
-  - [9.4. Importar Robots](#sec-9-4)
-  - [9.5. Papelera](#sec-9-5)
-- [10. Planificación](#sec-10)
-  - [10.1. Plan Semanal](#sec-10-1)
-  - [10.2. Listas de la Compra](#sec-10-2)
-  - [10.3. Comparador de Precios (Matriz)](#sec-10-3)
-- [11. Comercio en Línea](#sec-11)
-  - [11.1. Pedidos](#sec-11-1)
-  - [11.2. Detalle de Pedido](#sec-11-2)
-  - [11.3. Nuevo / Editar Pedido](#sec-11-3)
-  - [11.4. Entregar Pedido](#sec-11-4)
-  - [11.5. Devolver Pedido / Línea](#sec-11-5)
-  - [11.6. Reembolsar Pedido / Línea](#sec-11-6)
-  - [11.7. Importar Pedido](#sec-11-7)
-  - [11.8. Pedido Amazon (OCR)](#sec-11-8)
-  - [11.9. Plataformas](#sec-11-9)
-  - [11.10. Artículos](#sec-11-10)
-  - [11.11. Monederos Virtuales](#sec-11-11)
-  - [11.12. Estadísticas](#sec-11-12)
-- [12. Salud](#sec-12)
-  - [12.1. Vista Diaria](#sec-12-1)
-  - [12.2. Configuración Diaria](#sec-12-2)
-  - [12.3. Medicación Fija](#sec-12-3)
-  - [12.4. Tomas de Datos](#sec-12-4)
-  - [12.5. Eventos](#sec-12-5)
-  - [12.6. Tipos de Dolor](#sec-12-6)
-  - [12.7. Gráficos](#sec-12-7)
-  - [12.8. Historial](#sec-12-8)
-  - [12.9. PDF Diario](#sec-12-9)
-- [13. Mascotas](#sec-13)
-  - [13.1. Panel de Mascotas](#sec-13-1)
-  - [13.2. Nueva / Editar Mascota](#sec-13-2)
-  - [13.3. Ficha de la Mascota (Detalle)](#sec-13-3)
-  - [13.4. Peso](#sec-13-4)
-  - [13.5. Vacunas](#sec-13-5)
-  - [13.6. Desparasitaciones](#sec-13-6)
-  - [13.7. Visitas al Veterinario](#sec-13-7)
+- [1. Dashboard](#1-dashboard)
+  - [1.1. Barra superior de contexto](#11-barra-superior-de-contexto)
+  - [1.2. Widgets de alerta](#12-widgets-de-alerta)
+  - [1.3. Acciones rápidas](#13-acciones-rápidas)
+  - [1.4. Cargos periódicos pendientes](#14-cargos-periódicos-pendientes)
+  - [1.5. Tablas de resumen](#15-tablas-de-resumen)
+  - [1.6. Listas de compra activas](#16-listas-de-compra-activas)
+  - [1.7. Personalizar el dashboard](#17-personalizar-el-dashboard)
+- [2. Compras](#2-compras)
+  - [2.1. Histórico de Tickets](#21-histórico-de-tickets)
+  - [2.2. Nueva Compra](#22-nueva-compra)
+  - [2.3. Detalle de Compra](#23-detalle-de-compra)
+  - [2.4. Editar Línea](#24-editar-línea)
+  - [2.5. Gestión de Tickets (OCR)](#25-gestión-de-tickets-ocr)
+- [3. Stock](#3-stock)
+  - [3.1. Despensa](#31-despensa)
+  - [3.2. Movimientos de Stock](#32-movimientos-de-stock)
+- [4. Recetas](#4-recetas)
+  - [4.1. Listado de Recetas](#41-listado-de-recetas)
+  - [4.2. Nueva Receta](#42-nueva-receta)
+  - [4.3. Detalle de Receta](#43-detalle-de-receta)
+  - [4.4. Ficha de Cocina](#44-ficha-de-cocina)
+  - [4.5. ¿Qué puedo cocinar?](#45-qué-puedo-cocinar)
+  - [4.6. Importar Recetas](#46-importar-recetas)
+  - [4.7. Accesorios de Cocina](#47-accesorios-de-cocina)
+- [5. Productos](#5-productos)
+  - [5.1. Listado de Productos](#51-listado-de-productos)
+  - [5.2. Detalle de Producto](#52-detalle-de-producto)
+  - [5.3. Comparador de Precios](#53-comparador-de-precios)
+  - [5.4. Tipos de Producto](#54-tipos-de-producto)
+  - [5.5. Unidades de Medida](#55-unidades-de-medida)
+  - [5.6. Conversiones de Unidades](#56-conversiones-de-unidades)
+  - [5.7. Importar Alimentos Básicos](#57-importar-alimentos-básicos)
+- [6. Supermercados](#6-supermercados)
+  - [6.1. Listado de Supermercados](#61-listado-de-supermercados)
+  - [6.2. Detalle de Supermercado](#62-detalle-de-supermercado)
+  - [6.3. Calendario de Festivos](#63-calendario-de-festivos)
+  - [6.4. Crear/Editar Supermercado](#64-creareditar-supermercado)
+- [7. Finanzas](#7-finanzas)
+  - [7.1. Movimientos](#71-movimientos)
+  - [7.2. Conciliación Bancaria](#72-conciliación-bancaria)
+  - [7.3. Bancos](#73-bancos)
+  - [7.4. Cuentas](#74-cuentas)
+  - [7.5. Tarjetas](#75-tarjetas)
+  - [7.6. Liquidaciones de Tarjeta](#76-liquidaciones-de-tarjeta)
+  - [7.7. Financiaciones](#77-financiaciones)
+  - [7.8. Gastos Periódicos](#78-gastos-periódicos)
+  - [7.9. Métodos de Pago](#79-métodos-de-pago)
+  - [7.10. Previsión de Pagos](#710-previsión-de-pagos)
+- [8. Técnicas de Cocina](#8-técnicas-de-cocina)
+  - [8.1. Listado de Técnicas](#81-listado-de-técnicas)
+  - [8.2. Nueva Técnica](#82-nueva-técnica)
+  - [8.3. Detalle de Técnica](#83-detalle-de-técnica)
+  - [8.4. Añadir / Editar Variante](#84-añadir--editar-variante)
+  - [8.5. Ficha de Técnica](#85-ficha-de-técnica)
+  - [8.6. Importar Técnica](#86-importar-técnica)
+- [9. Robots de Cocina](#9-robots-de-cocina)
+  - [9.1. Listado de Robots](#91-listado-de-robots)
+  - [9.2. Detalle de Robot](#92-detalle-de-robot)
+  - [9.3. Nuevo / Editar Robot](#93-nuevo--editar-robot)
+  - [9.4. Importar Robots](#94-importar-robots)
+  - [9.5. Papelera](#95-papelera)
+- [10. Planificación](#10-planificación)
+  - [10.1. Plan Semanal](#101-plan-semanal)
+  - [10.2. Listas de la Compra](#102-listas-de-la-compra)
+  - [10.3. Comparador de Precios (Matriz)](#103-comparador-de-precios-matriz)
+- [11. Comercio en Línea](#11-comercio-en-línea)
+  - [11.1. Pedidos](#111-pedidos)
+  - [11.2. Detalle de Pedido](#112-detalle-de-pedido)
+  - [11.3. Nuevo / Editar Pedido](#113-nuevo--editar-pedido)
+  - [11.4. Entregar Pedido](#114-entregar-pedido)
+  - [11.5. Devolver Pedido / Línea](#115-devolver-pedido--línea)
+  - [11.6. Reembolsar Pedido / Línea](#116-reembolsar-pedido--línea)
+  - [11.7. Importar Pedido](#117-importar-pedido)
+  - [11.8. Pedido Amazon (OCR)](#118-pedido-amazon-ocr)
+  - [11.9. Plataformas](#119-plataformas)
+  - [11.10. Artículos](#1110-artículos)
+  - [11.11. Monederos Virtuales](#1111-monederos-virtuales)
+  - [11.12. Estadísticas](#1112-estadísticas)
+- [12. Salud](#12-salud)
+  - [12.1. Vista Diaria](#121-vista-diaria)
+  - [12.2. Configuración Diaria](#122-configuración-diaria)
+  - [12.3. Medicación Fija](#123-medicación-fija)
+  - [12.4. Tomas de Datos](#124-tomas-de-datos)
+  - [12.5. Eventos](#125-eventos)
+  - [12.6. Tipos de Dolor](#126-tipos-de-dolor)
+  - [12.7. Gráficos](#127-gráficos)
+  - [12.8. Historial](#128-historial)
+  - [12.9. PDF Diario](#129-pdf-diario)
+- [13. Mascotas](#13-mascotas)
+  - [13.1. Panel de Mascotas](#131-panel-de-mascotas)
+  - [13.2. Nueva / Editar Mascota](#132-nueva--editar-mascota)
+  - [13.3. Ficha de la Mascota (Detalle)](#133-ficha-de-la-mascota-detalle)
+  - [13.4. Peso](#134-peso)
+  - [13.5. Vacunas](#135-vacunas)
+  - [13.6. Desparasitaciones](#136-desparasitaciones)
+  - [13.7. Visitas al Veterinario](#137-visitas-al-veterinario)
 
 ---
 
-<h2 id="sec-1">1. Dashboard</h2>
+## 1. Dashboard
 
 El Dashboard es la pantalla principal tras iniciar sesión. Te ofrece una vista general de tu hogar con alertas, accesos rápidos y resúmenes.
 
-<h3 id="sec-1-1">1.1. Barra superior de contexto</h3>
+### 1.1. Barra superior de contexto
 
 Nada más entrar, bajo el menú, verás una barra con:
 - **Nombre de la casa activa** (ej: "Casa principal")
@@ -122,7 +122,7 @@ Nada más entrar, bajo el menú, verás una barra con:
 > [!WARNING]  
 > Si ves "Sin casa seleccionada", debes crear o seleccionar una casa antes de continuar.
 
-<h3 id="sec-1-2">1.2. Widgets de alerta</h3>
+### 1.2. Widgets de alerta
 
 Son 6 tarjetas que te avisan de un vistazo:
 
@@ -135,7 +135,7 @@ Son 6 tarjetas que te avisan de un vistazo:
 | **Pedidos en curso** | Pedidos online pendientes de recibir |
 | **En reparto** | Pedidos que ya están en camino |
 
-<h3 id="sec-1-3">1.3. Acciones rápidas</h3>
+### 1.3. Acciones rápidas
 
 Seis botones grandes para las operaciones más frecuentes:
 
@@ -148,32 +148,32 @@ Seis botones grandes para las operaciones más frecuentes:
 | **Movimiento** | Registrar gasto/ingreso |
 | **Robots** | Acceder a tus robots de cocina |
 
-<h3 id="sec-1-4">1.4. Cargos periódicos pendientes</h3>
+### 1.4. Cargos periódicos pendientes
 
 Si hay gastos automáticos programados para hoy (como suscripciones), verás un aviso para **Generarlos** o **Ignorarlos**.
 
-<h3 id="sec-1-5">1.5. Tablas de resumen</h3>
+### 1.5. Tablas de resumen
 
 | Tabla | Contenido |
 | :--- | :--- |
 | **Próximas comidas** | Fecha, tipo (comida/cena), receta y número de comensales |
 | **Últimas compras** | Fecha, supermercado y total de cada compra reciente |
 
-<h3 id="sec-1-6">1.6. Listas de compra activas</h3>
+### 1.6. Listas de compra activas
 
 Muestra las listas de compra que tienes pendientes, con el número de items en cada una.
 
-<h3 id="sec-1-7">1.7. Personalizar el dashboard</h3>
+### 1.7. Personalizar el dashboard
 
 Haz clic en **Personalizar** (arriba a la derecha) para abrir un panel donde puedes activar o desactivar los widgets que quieres ver. Los cambios se guardan por usuario.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-2">2. Compras</h2>
+## 2. Compras
 
-<h3 id="sec-2-1">2.1. Histórico de Tickets</h3>
+### 2.1. Histórico de Tickets
 
 Es el listado principal de todas tus compras.
 
@@ -198,7 +198,7 @@ Es el listado principal de todas tus compras.
 | ↩️ | **Desconfirmar** (Vuelve a borrador) | Solo en confirmada |
 | 🗑️ | **Anular** (Marca como anulada) | Siempre |
 
-<h3 id="sec-2-2">2.2. Nueva Compra</h3>
+### 2.2. Nueva Compra
 
 Para crear una compra manualmente:
 1. Ve a **Compras → Nueva compra**
@@ -206,7 +206,7 @@ Para crear una compra manualmente:
 3. Pulsa **Crear compra y añadir líneas**
 4. Te llevará al detalle de la compra en estado borrador para añadir productos
 
-<h3 id="sec-2-3">2.3. Detalle de Compra</h3>
+### 2.3. Detalle de Compra
 
 **Cabecera:** Número de compra y estado. Datos principales: fecha, supermercado, total.
 
@@ -242,11 +242,11 @@ Para crear una compra manualmente:
 2. Pulsa **Confirmar**
 3. La compra se confirma y actualiza el stock automáticamente.
 
-<h3 id="sec-2-4">2.4. Editar Línea</h3>
+### 2.4. Editar Línea
 
 Al hacer clic en ✏️ en una línea, accedes al editor completo donde puedes modificar todos los campos. Los descuentos se recalculan en tiempo real con HTMX.
 
-<h3 id="sec-2-5">2.5. Gestión de Tickets (OCR)</h3>
+### 2.5. Gestión de Tickets (OCR)
 
 Para digitalizar tickets físicos o digitales:
 1. Ve a **Compras → Gestionar tickets**
@@ -262,13 +262,13 @@ Para digitalizar tickets físicos o digitales:
 6. Selecciona fecha y supermercado
 7. Pulsa **Confirmar e importar**
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-3">3. Stock</h2>
+## 3. Stock
 
-<h3 id="sec-3-1">3.1. Despensa</h3>
+### 3.1. Despensa
 
 La despensa te muestra todos los productos que gestionan stock, con alertas visuales para que nada se te pase.
 
@@ -299,20 +299,20 @@ La despensa te muestra todos los productos que gestionan stock, con alertas visu
 
 **Consumir producto:** Al hacer clic en **Consumir** se abre un modal donde puedes elegir el modo (*Por cantidad* o *Por unidades*), la fecha del consumo y notas adicionales.
 
-<h3 id="sec-3-2">3.2. Movimientos de Stock</h3>
+### 3.2. Movimientos de Stock
 
 Registro completo de todas las entradas y salidas de tu despensa.
 
 - **Filtros disponibles:** Producto, Tipo (Todos / Entradas / Salidas), Rango de fechas (Desde / Hasta).
 - **Tabla de movimientos:** Fecha, Producto, Tipo (🟢 Entrada / 🔴 Salida), Entrada, Salida, Existencias, Precio ud., Origen.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-4">4. Recetas</h2>
+## 4. Recetas
 
-<h3 id="sec-4-1">4.1. Listado de Recetas</h3>
+### 4.1. Listado de Recetas
 
 Accede desde **Recetas → Ver todas**.
 
@@ -320,7 +320,7 @@ Accede desde **Recetas → Ver todas**.
 - **Tarjetas de receta:** Nombre, tipo, dificultad, raciones, tiempo, alerta de stock (🟢 Todos disponibles o 🟡 Faltan X ingredientes).
 - **Acciones:** 👁️ Ver, 📋 Ficha (imprimible), ✏️ Editar, 🗑️ Eliminar.
 
-<h3 id="sec-4-2">4.2. Nueva Receta</h3>
+### 4.2. Nueva Receta
 
 Crea una receta desde cero con 4 pestañas:
 
@@ -331,7 +331,7 @@ Crea una receta desde cero con 4 pestañas:
 | **Elaboración** | Instrucciones generales. Los pasos por robot se añaden después |
 | **Extra** | Alérgenos y etiquetas de colores |
 
-<h3 id="sec-4-3">4.3. Detalle de Receta</h3>
+### 4.3. Detalle de Receta
 
 Organizada en las siguientes pestañas:
 - **Pestaña Accesorios:** Accesorios necesarios agrupados por robot.
@@ -346,7 +346,7 @@ Organizada en las siguientes pestañas:
 - 📋 **Ficha cocina:** Versión imprimible
 - ✏️ **Editar datos** / 🗑️ **Eliminar**
 
-<h3 id="sec-4-4">4.4. Ficha de Cocina</h3>
+### 4.4. Ficha de Cocina
 
 Pantalla especial optimizada para cocinar:
 - Diseño en naranja con letra grande.
@@ -354,28 +354,28 @@ Pantalla especial optimizada para cocinar:
 - Modo tradicional: muestra los pasos sin detalles técnicos.
 - Botón **Imprimir** para llevarlo a papel.
 
-<h3 id="sec-4-5">4.5. ¿Qué puedo cocinar?</h3>
+### 4.5. ¿Qué puedo cocinar?
 
 Sugerencias basadas en tu stock actual:
 - 🟢 **Recetas disponibles:** Tienes todos los ingredientes. Puedes cocinar ya.
 - 🟡 **Casi disponibles:** Te falta algún ingrediente. Muestra el % disponible y botón para añadir faltantes.
 
-<h3 id="sec-4-6">4.6. Importar Recetas</h3>
+### 4.6. Importar Recetas
 
 - **Individual:** Pega el texto de la receta o sube un archivo (TXT, MD, PDF), previsualiza y confirma.
 - **En lote:** Coloca archivos en la carpeta `docs/Recetas pendientes/` para procesarlos de una vez.
 
-<h3 id="sec-4-7">4.7. Accesorios de Cocina</h3>
+### 4.7. Accesorios de Cocina
 
-Gestión de utensilios y accesorios asignables a las recetas.
+Gestión de utensils y accesorios asignables a las recetas.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-5">5. Productos</h2>
+## 5. Productos
 
-<h3 id="sec-5-1">5.1. Listado de Productos</h3>
+### 5.1. Listado de Productos
 
 Accede desde **Productos → Ver todos**.
 
@@ -383,7 +383,7 @@ Accede desde **Productos → Ver todos**.
 - **Filtros:** Buscador (nombre/alias), Tipo de categoría.
 - **Tabla de productos:** Nombre, Tipo, Stock (🟢 OK / 🟡 Bajo / 🔴 Sin stock), Formatos EAN, Consumir rápido y Acciones.
 
-<h3 id="sec-5-2">5.2. Detalle de Producto</h3>
+### 5.2. Detalle de Producto
 
 Ficha completa organizada en 5 pestañas:
 1. **Información:** Nombre, tipo, unidad base, caducidad estimada, densidad, stock mínimo/ideal, alias.
@@ -392,189 +392,189 @@ Ficha completa organizada en 5 pestañas:
 4. **Historial:** Últimas compras realizadas del producto.
 5. **Movimientos:** Registro detallado de entradas y salidas de stock.
 
-<h3 id="sec-5-3">5.3. Comparador de Precios</h3>
+### 5.3. Comparador de Precios
 
 Accede desde **Productos → Comparador**.
 
 Permite filtrar por producto, tipo y supermercados para obtener una tabla comparativa basada en el **precio por unidad base (€/kg, €/L o €/ud)**. La mejor opción se marca con la insignia 🏆 **"Mejor"** en verde.
 
-<h3 id="sec-5-4">5.4. Tipos de Producto</h3>
+### 5.4. Tipos de Producto
 
 Gestión de categorías con iconos de *Bootstrap Icons*.
 
-<h3 id="sec-5-5">5.5. Unidades de Medida</h3>
+### 5.5. Unidades de Medida
 
 Gestión de unidades (Kilogramo, Litro, Unidad) y sus abreviaturas.
 
-<h3 id="sec-5-6">5.6. Conversiones de Unidades</h3>
+### 5.6. Conversiones de Unidades
 
 Definición de equivalencias (ej: 1 cucharada = 7.8 g de harina; 1 taza = 240 ml de leche).
 
-<h3 id="sec-5-7">5.7. Importar Alimentos Básicos</h3>
+### 5.7. Importar Alimentos Básicos
 
 Carga masiva desde tablas en Markdown.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-6">6. Supermercados</h2>
+## 6. Supermercados
 
-<h3 id="sec-6-1">6.1. Listado de Supermercados</h3>
+### 6.1. Listado de Supermercados
 
 Tarjetas con nombre, tipo, ciudad, dirección, formatos EAN y servicios (parking, wifi...).
 - **Barra superior:** Festivos, Nuevo supermercado, Papelera.
 
-<h3 id="sec-6-2">6.2. Detalle de Supermercado</h3>
+### 6.2. Detalle de Supermercado
 
 - **Información:** Datos generales, servicios y puntos de recogida.
 - **Horarios:** Horario general semanal y selección múltiple de festivos.
 - **Estadísticas:** Gastos mensuales del año (bruto, descuentos, neto) y EANs registrados.
 
-<h3 id="sec-6-3">6.3. Calendario de Festivos</h3>
+### 6.3. Calendario de Festivos
 
 Gestión de festivos (Estatal 🔴, Autonómica 🟡, Local 🔵) con opciones para aplicar a todos los supermercados o importar calendarios.
 
-<h3 id="sec-6-4">6.4. Crear/Editar Supermercado</h3>
+### 6.4. Crear/Editar Supermercado
 
 Formulario con campos obligatorios: Nombre, Tipo, Ciudad; y opcionales: Dirección, Teléfono, Email, Web y Método de pago por defecto.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-7">7. Finanzas</h2>
+## 7. Finanzas
 
-<h3 id="sec-7-1">7.1. Movimientos</h3>
+### 7.1. Movimientos
 
 El corazón financiero (acceso desde **Finanzas → Movimientos**).
 - **Tarjetas de resumen:** Gastos (rojo), Ingresos (verde) y Balance (azul).
 - **Acciones:** Conciliar y Liquidaciones.
 - **Tabla:** Muestra Fecha, F. Cargo, Concepto, Importe, Cuenta, Método y Toggle de Verificado. Acciones de duplicar, editar y eliminar.
 
-<h3 id="sec-7-2">7.2. Conciliación Bancaria</h3>
+### 7.2. Conciliación Bancaria
 
 Pantalla dividida en dos columnas:
 - **Pendientes de conciliar (Izquierda):** Compras y pedidos sin movimiento bancario vinculado.
 - **Movimientos sin conciliar (Derecha):** Movimientos bancarios sin compra asociada.
 - Permite **Vincular** o **Marcar conciliado** manualmente.
 
-<h3 id="sec-7-3">7.3. Bancos</h3>
+### 7.3. Bancos
 
 Listado y detalle de entidades bancarias (código de 4 dígitos, país ISO) y sus cuentas asociadas.
 
-<h3 id="sec-7-4">7.4. Cuentas</h3>
+### 7.4. Cuentas
 
 Administración de cuentas con saldo en tiempo real, alias e IBAN.
 
-<h3 id="sec-7-5">7.5. Tarjetas</h3>
+### 7.5. Tarjetas
 
 Tarjetas de débito, crédito, prepago o virtuales. Muestra ciclos de corte/cargo, límite de crédito, dispuesto y disponible. Incluye comparador entre la app y extracto PDF.
 
-<h3 id="sec-7-6">7.6. Liquidaciones de Tarjeta</h3>
+### 7.6. Liquidaciones de Tarjeta
 
 Gestión del cierre de ciclos de tarjetas de crédito. Permite verificar el periodo, generar la liquidación y pagarla creando el movimiento bancario.
 
-<h3 id="sec-7-7">7.7. Financiaciones</h3>
+### 7.7. Financiaciones
 
 Listado de compras financiadas con progreso de cuotas, intereses, comisiones y botón de pago individualizado por cuota.
 
-<h3 id="sec-7-8">7.8. Gastos Periódicos</h3>
+### 7.8. Gastos Periódicos
 
 Control de suscripciones y recibos recurrentes. Puedes establecer la periodicidad y generar movimientos masivos para el mes.
 
-<h3 id="sec-7-9">7.9. Métodos de Pago</h3>
+### 7.9. Métodos de Pago
 
 Creación de accesos rápidos con iconos personalizados utilizados en compras y movimientos.
 
-<h3 id="sec-7-10">7.10. Previsión de Pagos</h3>
+### 7.10. Previsión de Pagos
 
 Vista unificada con el total previsto a futuro desglosado por liquidaciones, financiaciones y gastos periódicos.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-8">8. Técnicas de Cocina</h2>
+## 8. Técnicas de Cocina
 
-<h3 id="sec-8-1">8.1. Listado de Técnicas</h3>
+### 8.1. Listado de Técnicas
 
 Buscador y listado por categorías con tarjetas explicativas y variantes por robot.
 
-<h3 id="sec-8-2">8.2. Nueva Técnica</h3>
+### 8.2. Nueva Técnica
 
 Formulario básico: Nombre (obligatorio), Tipo, Descripción e Ingredientes recomendados.
 
-<h3 id="sec-8-3">8.3. Detalle de Técnica</h3>
+### 8.3. Detalle de Técnica
 
 Muestra la información de la técnica y las variantes por robot (accesorio, tiempo, temperatura, velocidad, potencia).
 
-<h3 id="sec-8-4">8.4. Añadir / Editar Variante</h3>
+### 8.4. Añadir / Editar Variante
 
 Permite definir los parámetros exactos de preparación para un modelo de robot concreto.
 
-<h3 id="sec-8-5">8.5. Ficha de Técnica</h3>
+### 8.5. Ficha de Técnica
 
 Diseño oscuro imprimible adaptable a modo robot o tradicional.
 
-<h3 id="sec-8-6">8.6. Importar Técnica</h3>
+### 8.6. Importar Técnica
 
 Acepta texto estructurado o archivos PDF/TXT/MD.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-9">9. Robots de Cocina</h2>
+## 9. Robots de Cocina
 
-<h3 id="sec-9-1">9.1. Listado de Robots</h3>
+### 9.1. Listado de Robots
 
 Tarjetas con marca, modelo, recuento de accesorios y estado activo/inactivo.
 
-<h3 id="sec-9-2">9.2. Detalle de Robot</h3>
+### 9.2. Detalle de Robot
 
 Ficha del robot con lista de accesorios. Permite añadir, editar o eliminar accesorios.
 
-<h3 id="sec-9-3">9.3. Nuevo / Editar Robot</h3>
+### 9.3. Nuevo / Editar Robot
 
 Campos: Marca (obligatorio), Modelo (obligatorio) y Notas.
 
-<h3 id="sec-9-4">9.4. Importar Robots</h3>
+### 9.4. Importar Robots
 
 Vía archivo TXT o mediante pegado de texto plano con formato: `ROBOT: nombre / MARCA: marca / ACCESORIOS:`.
 
-<h3 id="sec-9-5">9.5. Papelera</h3>
+### 9.5. Papelera
 
 Sección para recuperar o purgar robots desactivados.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-10">10. Planificación</h2>
+## 10. Planificación
 
-<h3 id="sec-10-1">10.1. Plan Semanal</h3>
+### 10.1. Plan Semanal
 
 Vista tipo cuadrícula horizontal de 7 días:
 - **Comida ☀️:** Slots para 1er plato, 2do plato y postre.
 - **Cena 🌙:** Slots para 1er plato, 2do plato y postre.
 - Incluye el botón **Generar lista de la compra** directamente desde el plan.
 
-<h3 id="sec-10-2">10.2. Listas de la Compra</h3>
+### 10.2. Listas de la Compra
 
 Listado de items con toggles para marcar productos comprados, comparador de precios inter-supermercados y exportación a PDF o conversión a **Compra**.
 
-<h3 id="sec-10-3">10.3. Comparador de Precios (Matriz)</h3>
+### 10.3. Comparador de Precios (Matriz)
 
 Matriz comparativa de productos frente a hasta 3 supermercados para calcular cuál es el carro de la compra más económico.
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#📚-índice)
 
 ---
 
-<h2 id="sec-11">11. Comercio en Línea</h2>
+## 11. Comercio en Línea
 
-<h3 id="sec-11-1">11.1. Pedidos</h3>
+### 11.1. Pedidos
 
 Listado con seguimiento de pedidos por plataforma y badges de estado:
 - 🟡 **Amarillo:** Pendiente / Confirmado / Preparando
@@ -582,6 +582,6 @@ Listado con seguimiento de pedidos por plataforma y badges de estado:
 - 🟢 **Verde:** Entregado / Reembolsado
 - 🔴 **Rojo:** Cancelado / Devuelto
 
-<h3 id="sec-11-2">11.2. Detalle de Pedido</h3>
+### 11.2. Detalle de Pedido
 
 Vista completa con importes, flujo de estados, artículos asociados y códigos de seguimiento (trackings).
